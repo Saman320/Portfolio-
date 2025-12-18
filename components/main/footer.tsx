@@ -30,7 +30,7 @@ export const Footer = () => {
         </div>
 
         <div className="mb-[20px] text-[15px] text-center">
-          &copy; Areeba Zafar {new Date().getFullYear()} | All rights reserved.
+          &copy; Saman Siddiqui {new Date().getFullYear()} | All rights reserved.
         </div>
       </div>
     </div>

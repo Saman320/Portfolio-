@@ -287,7 +287,7 @@ export const FOOTER_DATA = [
       {
         name: "GitHub",
         icon: RxGithubLogo,
-        link: "https://github.com/AreebaZafarChohan",
+        link: "https://github.com/Saman320",
       },
       {
         name: "Discord",
@@ -307,12 +307,12 @@ export const FOOTER_DATA = [
       {
         name: "Twitter",
         icon: RxTwitterLogo,
-        link: "https://x.com/areebazafar715",
+        link: "https://x.com",
       },
       {
         name: "Linkedin",
         icon: RxLinkedinLogo,
-        link: "https://www.linkedin.com/in/areeba-zafar-973917303/",
+        link: "https://www.linkedin.com/in/saman-siddiqui-0023b3292/",
       },
     ],
   },
@@ -322,17 +322,17 @@ export const FOOTER_DATA = [
       {
         name: "My Blogs",
         icon: null,
-        link: "https://medium.com/@areebazafar715",
+        link: "https://medium.com",
       },
       {
         name: "Learning about me",
         icon: null,
-        link: "https://github.com/AreebaZafarChohan",
+        link: "https://github.com/Saman320",
       },
       {
         name: "Contact Me",
         icon: null,
-        link: "mailto:areebazafar715@gmail.com",
+        link: "mailto:samansiddiqui320@gmail.com",
       },
     ],
   },
